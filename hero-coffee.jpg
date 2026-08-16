@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://coffee-shop-websitee.netlify.app/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>coffee shop website</title>
+    <!-- Link to external CSS files -->
+    <link rel="stylesheet" href="./hero-coffee_files/style.css">
+    <!--google font-->
+    <link rel="stylesheet" href="./hero-coffee_files/css">
+    <!-- Link to Bootstrap CSS for styling -->
+    <link rel="stylesheet" href="./hero-coffee_files/bootstrap.min.css">
+    <!--icon link-->
+    <link rel="stylesheet" href="./hero-coffee_files/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+</head>
+<body>
+  <header>
+<div class="all-content">
+  <!-- Navbar -->
+<nav class="navbar navbar-expand-lg" id="navbar">
+  <div class="container-fluid">
+          <a class="navbar-brand" href="https://coffee-shop-websitee.netlify.app/#" id="logo"><img src="./hero-coffee_files/coffee png.png" alt=""> </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fa-solid fa-bars" style="color: white; font-size: 23px;"></i></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="https://coffee-shop-websitee.netlify.app/#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://coffee-shop-websitee.netlify.app/#about">about us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://coffee-shop-websitee.netlify.app/#menu"> our menu</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://coffee-shop-websitee.netlify.app/#gallery">our gallery</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://coffee-shop-websitee.netlify.app/contact">contact us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://coffee-shop-websitee.netlify.app/#blog">blog</a>
+        </li>
+      </ul><form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+</div></header>
+
+<!--navbar-->
+
+<!--home section-->
+<main>
+<section id="home">
+<div class="content">
+  <h2>coffee haven</h2>
+  <h3>start your Day with <br> fresh coffee</h3>
+  <p>"Brewed to Perfection — One Sip, Endless Comfort."</p>
+  <button id="btn">order now</button>
+</div>
+</section>
+</main>
+<!--home section-->
+<!--top cards-->
+<br><br>
+<div>
+<section id="top-cards">
+  <div class="heading">Top  <span>categories</span></div>
+  <div class="container">
+    <div class="row">
+      <!-- Card 1 -->
+      <div class="col-md-4 py-0 py-md-0">
+        <div class="card">
+          <img src="./hero-coffee_files/espresso.jpg" alt="">
+        </div>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="col-md-4 py-0 py-md-0">
+        <div class="card">
+          <img src="./hero-coffee_files/amaracino.jpg" alt="">
+        </div>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="col-md-4 py-0 py-md-0">
+        <div class="card">
+          <img src="./hero-coffee_files/flat white.jpg" alt="">
+        </div>
+      </div>
+      </div>
+    </div>
+  </section></div>
+
+
+
+<!--top card-->
+
+<!--about section-->
+<section id="about">
+  <div class="container">
+    <div class="heading">about <span>us</span></div>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="card">
+          <img src="./hero-coffee_files/Free-Coffee-HD-image-Ai-Generated-Graphics-94843572-1.jpg" alt="">
+        </div>
+      </div>
+      <div class="col-md-6">
+        <h3>what makes our coffee special ?</h3>
+        <p>At Coffee Haven, we believe great coffee starts with passion and ends with perfection.
+           What makes our coffee special is the care we put into every step — 
+           from selecting premium beans sourced from trusted farms to roasting them in small batches for maximum 
+           freshness. Each cup, whether it’s a bold Espresso or a smooth Cafe Latte,
+            is brewed with precision and love. We don’t just serve coffee; we create an experience
+             — warm, comforting, and full of flavor. At Coffee Haven, it’s not just about what’s in
+              the cup, but the feeling that comes with it.</p>
+        <br>
+        <p>Quality beans, rich flavor, and a cozy vibe — that’s what makes our coffee special.</p>
+        <br>
+        <button id="about-btn">learn more.</button>
+           </div>
+    </div>
+  </div>
+</section>
+<!--about section-->
+
+<!--menu section-->
+<section id="menu">
+  <div class="container">
+    <br>
+    <div class="heading">our <span>menu</span></div>
+    <div class="container" id="container2">
+      <div class="row">
+        <div class="col-md-3 py-3 py-md-0">
+          <div class="card1">
+            <img src="./hero-coffee_files/ameracino (5).png" alt="">
+            <div class="card-body">
+              <div class="star text-center">
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <h3>Ameracino</h3>
+              <p><del>$100</del>   <ins>$99</ins>   <span class="fa-solid fa-cart-shopping"></span></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3 py-3 py-md-0">
+          <div class="card1">
+            <img src="./hero-coffee_files/cafe latte (4).png" alt="">
+            <div class="card-body">
+              <div class="star text-center">
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <h3>cafe latte</h3>
+              <p><del>$100</del>   <ins>$99</ins>   <span class="fa-solid fa-cart-shopping"></span></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3 py-3 py-md-0">
+          <div class="card1">
+            <img src="./hero-coffee_files/cappuuccino(2).png" alt="">
+            <div class="card-body">
+              <div class="star text-center">
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <h3>cappuccino</h3>
+              <p><del>$100</del>   <ins>$99</ins>   <span class="fa-solid fa-cart-shopping"></span></p>
+            </div>
+          </div>
+        </div>
+        </div>
+
+       <div class="row">
+        <div class="col-md-3 py-3 py-md-0">
+          <div class="card1">
+            <img src="./hero-coffee_files/cortado.png" alt="">
+            <div class="card-body">
+              <div class="star text-center">
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <h3>cortado</h3>
+              <p><del>$100</del>   <ins>$99</ins>   <span class="fa-solid fa-cart-shopping"></span></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3 py-3 py-md-0">
+          <div class="card1">
+            <img src="./hero-coffee_files/espresso (3).png" alt="">
+            <div class="card-body">
+              <div class="star text-center">
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <h3>espresso</h3>
+              <p><del>$100</del>   <ins>$99</ins>   <span class="fa-solid fa-cart-shopping"></span></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-3 py-3 py-md-0">
+          <div class="card1">
+            <img src="./hero-coffee_files/flat white (6).png" alt="">
+            <div class="card-body">
+              <div class="star text-center">
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+                <i class="fa-regular fa-star"></i>
+              </div>
+              <h3>flate white</h3>
+              <p><del>$100</del>   <ins>$99</ins>   <span class="fa-solid fa-cart-shopping"></span></p>
+            </div>
+         </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </section>
+
+
+
+<!--menu section-->
+
+<div class="container" id="gallery">
+  <div class="heading">our<span>gallery</span></div>
+  <div class="row" style="margin-top: 30px;">
+    <div class="col-md-4 py-0 py-md-0">
+      <div class="card">
+        <img src="./hero-coffee_files/Untitled design (9).png" alt="">
+      </div>
+    </div>
+     <div class="col-md-4 py-0 py-md-0">
+      <div class="card">
+        <img src="./hero-coffee_files/Untitled design (11).png" alt="">
+      </div>
+    </div>
+
+     
+
+     <div class="col-md-4 py-0 py-md-0">
+      <div class="card">
+        <img src="./hero-coffee_files/Untitled design (14).png" alt="">
+      </div>
+    </div>
+
+     <div class="col-md-4 py-0 py-md-0">
+      <div class="card">
+        <img src="./hero-coffee_files/Untitled design (15).png" alt="">
+      </div>
+    </div>
+
+     <div class="col-md-4 py-0 py-md-0">
+      <div class="card">
+        <img src="./hero-coffee_files/Untitled design (16).png" alt="">
+      </div>
+    </div>
+
+    <div class="col-md-4 py-0 py-md-0">
+      <div class="card">
+        <img src="./hero-coffee_files/Untitled design (7).png" alt="">
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Contact Section -->
+ <section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <div class="heading">contact <span>us</span></div>
+                <p>We’re here to help! Whether you have a question about our coffee, 
+                    want to give feedback, or just want to say hello — we’d love
+                    to hear from you. Feel free to reach out through the contact form below,
+                    email us, or visit us at our café. Our team is always ready to serve you 
+                    with warmth and a perfect cup of coffee.</p>
+                    <input type=" text" placeholder="Name" class="form-control mb-3" aria-label="default input example">
+                    <input type=" email" placeholder="email" class="form-control mb-3" aria-label="default input example">
+                    <input type="number" placeholder="phone" class="form-control mb-3" aria-label="default input example">
+                    <button id="contact-btn">send message</button>
+            </div>
+            <div class="col-md-5" id="col">
+                <h1>info</h1>
+                <p><i class="fa-regular fa-envolope"></i>example@gmail.com</p>
+                <p><i class="fa-solid fa-phone"></i>92+000000000000</p>
+                <p><i class="fa-solid fa-building-coluns"></i>karachi, sindh, pakistan</p>
+                <p>Get in Touch
+For inquiries, orders, or general info, feel free to contact us anytime. We're always happy to assist you!</p>
+            </div>
+
+
+            </div>
+        </div>
+    
+
+ </section>
+
+ <!--blog section-->
+ <div>
+<section id="blog">
+     <div class="heading">latest  <span>blog</span></div>
+     <div class="container">
+        <div class="row">
+            <div class="col-md-4 py-3 py-md-0">
+                <img src="./hero-coffee_files/Untitled design (17).png" alt="">
+                <div class="card-body">
+                  <h3>Lorem ipsum dolar</h3>
+                  <h5>admin / 24-july-2025</h5>
+                  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto, veniam? Numquam fugit a fugiat mollitia! Nihil, quis eligendi ad at, explicabo ex quia modi nam voluptatibus placeat nostrum, sapiente error.</p>
+                  <button id="blog-btn">read more</button>
+                </div>
+            </div>
+
+             <div class="col-md-4 py-3 py-md-0">
+                <img src="./hero-coffee_files/Untitled design (18).png" alt="">
+                <div class="card-body">
+                  <h3>Lorem ipsum dolar</h3>
+                  <h5>admin / 24-july-2025</h5>
+                  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto, veniam? Numquam fugit a fugiat mollitia! Nihil, quis eligendi ad at, explicabo ex quia modi nam voluptatibus placeat nostrum, sapiente error.</p>
+                  <button id="blog-btn">read more</button>
+                </div>
+            </div>
+
+             <div class="col-md-4 py-3 py-md-0">
+                <img src="./hero-coffee_files/Untitled design (19).png" alt="">
+                <div class="card-body">
+                  <h3>Lorem ipsum dolar</h3>
+                  <h5>admin / 24-july-2025</h5>
+                  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto, veniam? Numquam fugit a fugiat mollitia! Nihil, quis eligendi ad at, explicabo ex quia modi nam voluptatibus placeat nostrum, sapiente error.</p>
+                  <button id="blog-btn">read more</button>
+                </div>
+            </div>
+        </div>
+     </div>
+</section>
+</div>
+
+
+
+
+
+
+<!--footer-->
+<div>
+<footer id="footer">
+  <div class="footer-logo text-center"><img src="./hero-coffee_files/coffee png.png" alt=""></div>
+  <div class="social-links text-center">
+    <i class="fa-brands fa-twitter"></i>
+    <i class="fa-brands fa-facebook"></i>
+    <i class="fa-brands fa-instagram"></i>
+    <i class="fa-brands fa-youtube"></i>
+    <i class="fa-brands fa-pinterest"></i>
+  </div>
+  </footer></div>
+
+
+
+
+
+
+
+
+
+<script src="./hero-coffee_files/bootstrap.bundle.min.js.download"></script>
+
+
+</body></html>
